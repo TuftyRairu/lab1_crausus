@@ -1,2 +1,3 @@
-Programmer 1 started
+Programmer 1 started | when?
 Programmer 2 append something
+programmer 3 change and add something
